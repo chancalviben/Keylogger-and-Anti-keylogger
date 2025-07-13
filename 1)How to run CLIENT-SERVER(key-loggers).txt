@@ -1,4 +1,4 @@
-Open the client-server folder.
+tgesrOpen the client server folder.
 
 The JAR,BAT files,are been devoloped by us to implement the key loggers in our system.
 
@@ -15,5 +15,4 @@ The detection of key loggers will imediately stop after closing or terminating t
 The codes used in implementing keyloggers mentioned below in the folder.
 
 ======================================================================================================
-
 
